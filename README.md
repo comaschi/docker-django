@@ -4,7 +4,7 @@ This is intended to be used as a template repository for django projects running
 - [docker-django](#docker-django)
   - [Building & commands](#building--commands)
       - [Your first step is start building your project with the following line](#your-first-step-is-start-building-your-project-with-the-following-line)
-      - [Database settings change to your select DB](#database-settings-change-to-your-select-db)
+      - [Database settings change to your select DB](#database-settings-change-to-your-pwsselect-db)
       - [then create your own pages with](#then-create-your-own-pages-with)
       - [Alwys remember to run the migrate command](#alwys-remember-to-run-the-migrate-command)
       - [If you want to create a new super user](#if-you-want-to-create-a-new-super-user)
